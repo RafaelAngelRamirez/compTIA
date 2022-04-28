@@ -7,18 +7,24 @@ Show Description: In this episode, Ronnie and Don define what a computer operati
 #### Operating Systems
 ---
 
+What makes and operating system?
+How they function and do what they do?
+
+Differentes SO. 
+
+
 * What is it? 
 	+ User <--> Computer
 	+ Software <--> Hardware
 	+ Common environment for software to execute in
 * Types
-	+ Workstation
-	+ Server
-	+ Mobile
-	+ Embedded (Firmware)
+	+ Workstation (Desktop)
+	+ Server (EX: Web server )
+	+ Mobile ( Ex: Android)
+	+ Embedded (Firmware) (EX: Cameras)
 	+ Hypervisor
 * How does it work? 
-	+ HAL
+	+ HAL [Hardware abstraction Layer] Aqui se leen los drives.   
 	+ Drivers
 * Additional Functionality
 	+ Logging/Auditing
