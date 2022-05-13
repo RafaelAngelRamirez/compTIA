@@ -18,7 +18,7 @@ Differentes SO.
 	+ Software <--> Hardware
 	+ Common environment for software to execute in
 * Types
-	+ Workstation (Desktop)
+	+ Workstation (Desktop)	
 	+ Server (EX: Web server )
 	+ Mobile ( Ex: Android)
 	+ Embedded (Firmware) (EX: Cameras)
