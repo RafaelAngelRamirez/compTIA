@@ -34,7 +34,7 @@ Show Description: In this episode, Ronnie and Don explore the Microsoft Windows 
 	+ Scheduled Tasks
 		Tareas que corren cada cierto tiempo
 	+ Services
-		Programas que hacen trabajos y permaneces en espera. 
+		Programas que hacen trabajos y permanecen en espera. 
 * User Management
 	+ User Accounts
 		Manejo de multiples cuentas
@@ -42,4 +42,3 @@ Show Description: In this episode, Ronnie and Don explore the Microsoft Windows 
 
 
 	+ Login/Logout/Lock
-	
