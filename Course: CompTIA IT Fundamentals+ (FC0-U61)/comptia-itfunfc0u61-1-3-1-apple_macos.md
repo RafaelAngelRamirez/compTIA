@@ -10,14 +10,23 @@ Show Description: In this episode, Ronnie and Don explore the Apple macOS operat
 * History
 * User Interface
 	+ Aqua/Finder
+		Echo para ser más facil
 * Disk/File Management
-	+ Drive Mounts
+	+ Drive Mounts 
+		Se monta con nombre
 	+ HFS+/APFS
+		HFS Sistema de archivos tambien llamado MAC OS Extended (Apple File System)
+
 * Application Management
 	+ Install/Uninstall Software
+		Descargar y arrastral a "applications"
 	+ Launching/Switching Applications
+
 * Task Management
 	+ Activity Monitor
+		Las tareas se quedan corriento como servicios
+		Esto se puede ver en la barrita de abajo. 
+		
 * User Management
 	+ User Accounts
 	+ Login/Logout/Lock
